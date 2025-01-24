@@ -155,7 +155,7 @@ def generate_mcq_questions(text):
         return []
 
 def main():
-    st.title("PDF Approach-Based Question Generator")
+    st.title("Question Generator")
 
     # Initialize session state for questions and title
     if 'mcq_questions' not in st.session_state:
