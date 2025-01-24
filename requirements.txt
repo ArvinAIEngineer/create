@@ -1,0 +1,7 @@
+streamlit
+llama-index
+groq
+pdfplumber
+psycopg2-binary
+python-dotenv
+llama_index.llms.groq
